@@ -61,9 +61,3 @@ A 2-page interactive Power BI dashboard analyzing
 ### Dashboard 2 — Product Analysis  
 ![Dashboard 2](dashboard2.png)
 
----
-
-## 👤 Author
-**Nerean Dalmia**  
-MBA @ NMIMS CDOE | B.Tech CSE @ UPES  
-[LinkedIn](your-linkedin-url-yahan)
