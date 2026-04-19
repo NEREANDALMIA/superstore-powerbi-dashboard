@@ -57,10 +57,10 @@ A 2-page interactive Power BI dashboard analyzing $2.3M in sales across 4 years 
 ## 📸 Dashboard Preview
 
 **Dashboard 1 — Sales & Regional**
-![Dashboard 1](screenshot_1.png)
+![Dashboard 1](dashboard1.png)
 
 **Dashboard 2 — Product Analysis**
-![Dashboard 2](screenshot_2.png)
+![Dashboard 2](dashboard2.png)
 
 ---
 
