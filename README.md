@@ -65,6 +65,6 @@ A 2-page interactive Power BI dashboard analyzing $2.3M in sales across 4 years 
 ---
 
 ## 🚀 How to Use
-1. Download `Superstore_Dashboard.pbix` and open in Power BI Desktop
+1. Download `SUPERSTORE DASHBOARD.pbix` and open in Power BI Desktop
 2. Use **slicers** to filter by Year / Region / Category
 3. Click any visual to **cross-filter** the entire dashboard
